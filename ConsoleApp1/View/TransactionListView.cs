@@ -14,6 +14,7 @@ namespace ConsoleApp1.View
             this.transactionList = transactionList;
         }
 
+        //Test
         public void Menu()
         {
             string input = "";
